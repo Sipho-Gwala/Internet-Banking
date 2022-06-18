@@ -1,0 +1,29 @@
+
+FingerTips : Received Payment +R400.000000 from saving account, available balance R6000.000000
+FingerTips : Payment -R400.000000 from saving account, available balance R6000.000000
+FingerTips : Payment -R400.000000 from saving account, available balance R5600.000000
+FingerTips : Payment -R400.000000 from saving account, available balance R5600.000000
+FingerTips : Received Payment +R150.000000 from saving account, available balance R0.000000
+FingerTips : Payment -R150.000000 from saving account, available balance R850.000000
+FingerTips : Transfer -R50.000000 from current account, available balance R905.000000
+FingerTips : Received Payment +R469.000000 from saving account, available balance R5000.000000
+FingerTips : Payment -R469.000000 from saving account, available balance R321.000000
+FingerTips : Received Payment +R350.000000 from saving account, available balance R5466.655000
+FingerTips : Received Payment +R150.000000 from saving account, available balance R321.000000
+FingerTips : Payment -R150.000000 from saving account, available balance R6264.905000
+FingerTips : Received Payment +R80.000000 from saving account, available balance R6264.905000
+FingerTips : Payment -R80.000000 from saving account, available balance R6184.905000
+FingerTips : Received Payment +R80.000000 from saving account, available balance R6264.505000
+FingerTips : Payment -R80.000000 from saving account, available balance R6184.505000
+FingerTips : Received Payment +R80.000000 from saving account, available balance R470.250000
+FingerTips : Payment -R80.000000 from saving account, available balance R6184.105000
+FingerTips : Received Payment +R70.000000 from saving account, available balance R549.850000
+FingerTips : Payment -R70.000000 from saving account, available balance R6114.105000
+FingerTips : Received Payment +R500.000000 from saving account, available balance R6114.105000
+FingerTips : Payment -R500.000000 from saving account, available balance R700.000000
+FingerTips : Received Payment +R200.000000 from saving account, available balance R6611.605000
+FingerTips : Payment -R200.000000 from saving account, available balance R705.000000
+FingerTips : Transfer -R500.000000 from current account, available balance R550.000000
+FingerTips : Received Payment +R500.000000 from saving account, available balance R6810.605000
+FingerTips : Payment -R500.000000 from saving account, available balance R50.000000
+FingerTips : Transfer -R200.000000 from current account, available balance R300.000000
